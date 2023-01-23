@@ -1,4 +1,4 @@
-Experiment 16JAN [Coimbatore Campus Visit] Part 1 Dataset Generation
+Experiment - Dataset Generation (PC Pair) with Any Round for Neural CryptAnalysis
 
 Instructions to use:
 1. Place keys(files that contains keys) in the key_files folder.
